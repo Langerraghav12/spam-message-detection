@@ -37,7 +37,7 @@ The script will:
 1. Load and balance the dataset (down-sample ham to match spam count).
 2. Tokenize and pad sequences.
 3. Train a two-layer LSTM model (up to 30 epochs with early stopping).
-4. Start a Flask server at **http://127.0.0.1:5001**.
+4. Start a Flask server at **👉 http://127.0.0.1:5001**.
 
 Open the URL in your browser, type any SMS message, and click **Classify Message**.
 
