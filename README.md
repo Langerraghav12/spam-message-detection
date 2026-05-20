@@ -2,7 +2,6 @@
 
 A deep-learning SMS spam detector built with TensorFlow/Keras (LSTM) and served via a Flask web app.
 
-Source: https://github.com/kushagra4647verma/spam-classifier-lstm
 
 ---
 
